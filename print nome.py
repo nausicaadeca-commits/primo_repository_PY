@@ -1,0 +1,3 @@
+nome = "nausicaa"
+
+print(nome)
